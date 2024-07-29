@@ -9,7 +9,7 @@
  
 - I’m currently learning and expanding in domain of ML and DL with some prospects of AI applications.
 - I’m looking to collaborate on topics on which we can create difference for good.
-- Reach me out at: harshtrivedi2015@gmai.com 
+- Reach me out at: harshtrivedi2015@gmail.com 
 
 <!---
 Papercut13/Papercut13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
